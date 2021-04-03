@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Gmail Badge](https://img.shields.io/badge/-victor.27cm.santos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.27cm.santos@gmail.com)](mailto:victor.27cm.santos@gmail.com)
- [![Linkedin Badge](https://img.shields.io/badge/-Victor Hugo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-hugo-carvalho-moreira-dos-santos-54b9ab1ba/)](https://www.linkedin.com/in/victor-hugo-carvalho-moreira-dos-santos-54b9ab1ba/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Victor_Hugo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-hugo-carvalho-moreira-dos-santos-54b9ab1ba/)](https://www.linkedin.com/in/victor-hugo-carvalho-moreira-dos-santos-54b9ab1ba/) 
