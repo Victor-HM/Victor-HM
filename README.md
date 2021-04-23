@@ -3,8 +3,10 @@
 ### Quem sou eu?
 
 Eae Dev, eu sou o Victor, estou cursando Desenvolvimento de Sistemas na Etec Cidade Tiradentes. Atualmente estou aprendendo HTML, CSS, JavaScript, Java, entre outros. Esse ano aprenderei mais sobre PHP. Fique de olho aqui no GitHub, postarei várias coisas que estou aprendendo no momento.
-<img align="right" width="400px" src="./my-personal-repository.svg" />
- <br/> 
+
+
+<br/> 
+<img align="center" width="400px" src="./my-personal-repository.svg" />
 
  ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=Victor-HM&show_icons=true&theme=material-palenight)
  <br/>
