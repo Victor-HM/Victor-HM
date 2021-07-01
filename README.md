@@ -1,6 +1,6 @@
 ## Eae Dev 😜
 
-### Quem sou eu?
+### Quem sou eu? 👨‍🎓
 
 Eae Dev, eu sou o Victor, estou cursando Desenvolvimento de Sistemas na Etec Cidade Tiradentes. Atualmente estou aprendendo HTML, CSS, JavaScript, Java, entre outros. Esse ano aprenderei mais sobre PHP. Fique de olho aqui no GitHub, postarei várias coisas que estou aprendendo no momento.
 
