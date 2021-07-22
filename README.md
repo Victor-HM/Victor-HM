@@ -15,6 +15,13 @@ Eae Dev, eu sou o Victor, estou cursando Desenvolvimento de Sistemas na Etec Cid
  <br/>
  </div>
  
+ ## Skills
+ ![Badge](https://img.shields.io/static/v1?label=&message=JAVA&color=e67e22&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=HTML&color=e74c3c&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=CSS&color=3498db&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=SQL&color=2c3e50&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=JS&color=9b59b6&style=for-the-badge)
+ 
  ## Contatos
 
 [![Gmail Badge](https://img.shields.io/badge/-victor.27cm.santos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.27cm.santos@gmail.com)](mailto:victor.27cm.santos@gmail.com)
