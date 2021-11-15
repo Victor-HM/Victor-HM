@@ -2,7 +2,7 @@
 
 ### Quem sou eu? 👨‍🎓
 
-Eae Dev, eu sou o Victor, estou cursando Desenvolvimento de Sistemas na Etec Cidade Tiradentes. Atualmente estou aprendendo HTML, CSS, JavaScript, Java, entre outros. Esse ano aprenderei mais sobre PHP. Fique de olho aqui no GitHub, postarei várias coisas que estou aprendendo no momento.
+Eae Dev, eu sou o Victor, estou cursando Desenvolvimento de Sistemas na Etec Cidade Tiradentes. Atualmente estou aprendendo HTML, CSS, JavaScript, Java, PHP, MySQL. Fique de olho aqui no GitHub, postarei várias coisas que estou aprendendo no momento.
 
 <br/> 
 <div align="center">
@@ -21,6 +21,7 @@ Eae Dev, eu sou o Victor, estou cursando Desenvolvimento de Sistemas na Etec Cid
  ![Badge](https://img.shields.io/static/v1?label=&message=CSS&color=3498db&style=for-the-badge)
  ![Badge](https://img.shields.io/static/v1?label=&message=SQL&color=2c3e50&style=for-the-badge)
  ![Badge](https://img.shields.io/static/v1?label=&message=JS&color=9b59b6&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=PHP&color=686de0&style=for-the-badge)
  
  ## Contatos
 
