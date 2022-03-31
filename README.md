@@ -16,12 +16,14 @@ Eae Dev, eu me chamo Victor, estou cursando meu 3º ano em Desenvolvimento de Si
  </div>
  
  ## Skills
- ![Badge](https://img.shields.io/static/v1?label=&message=React&color=2980b9&style=for-the-badge)
- ![Badge](https://img.shields.io/static/v1?label=&message=JAVA&color=e67e22&style=for-the-badge)
- ![Badge](https://img.shields.io/static/v1?label=&message=SQL&color=2c3e50&style=for-the-badge)
- ![Badge](https://img.shields.io/static/v1?label=&message=JS&color=f1c40f&style=for-the-badge)
- ![Badge](https://img.shields.io/static/v1?label=&message=PHP&color=686de0&style=for-the-badge)
- ![Badge](https://img.shields.io/static/v1?label=&message=nodejs&color=2ecc71&style=for-the-badge)
+ ![html](https://img.shields.io/badge/HTML5-e74c3c?style=for-the-badge&logo=html5&logoColor=white)
+ ![css](https://img.shields.io/badge/CSS3-3498db?&style=for-the-badge&logo=css3&logoColor=white)
+ ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![react](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+ ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+ ![sql](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+ 
  
  ## Contatos
 
