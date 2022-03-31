@@ -16,12 +16,12 @@ Eae Dev, eu me chamo Victor, estou cursando meu 3º ano em Desenvolvimento de Si
  </div>
  
  ## Skills
+ ![Badge](https://img.shields.io/static/v1?label=&message=React&color=2980b9&style=for-the-badge)
  ![Badge](https://img.shields.io/static/v1?label=&message=JAVA&color=e67e22&style=for-the-badge)
- ![Badge](https://img.shields.io/static/v1?label=&message=HTML&color=e74c3c&style=for-the-badge)
- ![Badge](https://img.shields.io/static/v1?label=&message=CSS&color=3498db&style=for-the-badge)
  ![Badge](https://img.shields.io/static/v1?label=&message=SQL&color=2c3e50&style=for-the-badge)
- ![Badge](https://img.shields.io/static/v1?label=&message=JS&color=9b59b6&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=JS&color=f1c40f&style=for-the-badge)
  ![Badge](https://img.shields.io/static/v1?label=&message=PHP&color=686de0&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=nodejs&color=2ecc71&style=for-the-badge)
  
  ## Contatos
 
