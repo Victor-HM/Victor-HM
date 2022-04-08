@@ -6,7 +6,6 @@ Eae Dev, eu me chamo Victor, estou cursando meu 3º ano em Desenvolvimento de Si
 
 <br/> 
 <div align="center">
-<img align="center" width="400px" src="./my-personal-repository.svg" />
 
  ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=Victor-HM&show_icons=true&theme=material-palenight)
  <br/>
