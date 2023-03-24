@@ -15,12 +15,11 @@ Eae Dev, eu me chamo Victor, tenho ensino médio e técnico em Desenvolvimento d
  </div>
  
  ## Skills
- ![react](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![reactnative](https://img.shields.io/badge/React_Native-00006b?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![typescript](https://img.shields.io/badge/Typescript-4834d4?style=for-the-badge&logo=typescript&logoColor=61DAFB)
  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
- ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
  ![sql](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  
  
